@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+faiss-cpu
+sentence-transformers
+requests
+beautifulsoup4
+pypdf
+tqdm
+html5lib
